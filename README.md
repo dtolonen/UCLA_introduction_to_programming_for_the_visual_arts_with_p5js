@@ -16,7 +16,13 @@ https://www.youtube.com/watch?v=Nljjs4-mwW0
 
 
 - [Session_1_What_is_code_coordinates_Basic_drawing](https://github.com/dtolonen/ucla_introduction_to_programming_for_the_visual_arts_with_p5js/tree/main/Session_1_What_is_code_coordinates_Basic_drawing)
+<div id="wrap">
+              <br><strong>Rudimentary painting tool exploring variables and functions. Move mouse around for dark paint,
+                click for light paint.</strong>
+              <iframe id="scaled-frame" src="https://openprocessing.org/sketch/1568081" width="600px"
+                height="400px"></iframe>
 
+            </div>
 - [Session_2_Loops_store_modify_and_reuse_data ](https://github.com/dtolonen/The_Shortcut_Helsinki_Python_for_Data_Analysis/tree/Lesson_2_Conditional_statements_loops)
 - [Session_3_setup_and_draw_programs_that_run_over_time_Conditionals]
 - [Session_4_Drawing_Images]
