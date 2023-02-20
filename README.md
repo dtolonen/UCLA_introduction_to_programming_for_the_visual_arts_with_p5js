@@ -3,6 +3,8 @@
 
 Code from the [UCLA Arts](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info) course Introduction to Programming for the Visual Arts with p5.js taught by Lauren McCarthy, Casey Reas and Chandler McWilliams. Watch the trailer for the course here: https://www.youtube.com/watch?v=Nljjs4-mwW0
 
+<br><br>
+
 <img src=./1.gif>
 <img src=./walker.png>
 <img src=./run_like_the_wind.png>
