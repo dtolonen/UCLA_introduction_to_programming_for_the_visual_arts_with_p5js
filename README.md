@@ -7,6 +7,7 @@ Watch the trailer for the course here:
 https://www.youtube.com/watch?v=Nljjs4-mwW0
 
 <img src=./1.gif>
+<img src=./walker.png>
 <img src=./run_like_the_wind.png>
 
 
