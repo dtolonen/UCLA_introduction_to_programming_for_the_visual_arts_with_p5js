@@ -15,7 +15,8 @@ https://www.youtube.com/watch?v=Nljjs4-mwW0
 
 
 
-- [Session_1_What_is_code_coordinates_Basic_drawing](https://github.com/dtolonen/The_Shortcut_Helsinki_Python_for_Data_Analysis/tree/master/Lesson_1_Python_basics)
+- [Session_1_What_is_code_coordinates_Basic_drawing](https://github.com/dtolonen/ucla_introduction_to_programming_for_the_visual_arts_with_p5js/tree/main/Session_1_What_is_code_coordinates_Basic_drawing)
+
 - [Session_2_Loops_store_modify_and_reuse_data ](https://github.com/dtolonen/The_Shortcut_Helsinki_Python_for_Data_Analysis/tree/Lesson_2_Conditional_statements_loops)
 - [Session_3_setup_and_draw_programs_that_run_over_time_Conditionals]
 - [Session_4_Drawing_Images]
