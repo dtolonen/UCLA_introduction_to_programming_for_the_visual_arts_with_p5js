@@ -8,13 +8,13 @@ https://www.youtube.com/watch?v=Nljjs4-mwW0
 
 <img src=./1.gif>
 <img src=./run_like_the_wind.png>
-<img src=./session_8_export.png>
 
 
-#### Please follow the below links for the code from each lesson and their exercises.
+
+#### Please follow the below links for the code and the results from each lesson and their exercises.
 
 #### #workinprogress
-
+<br><br>
 
 
 - [Session_1_What_is_code_coordinates_Basic_drawing](https://github.com/dtolonen/ucla_introduction_to_programming_for_the_visual_arts_with_p5js/tree/main/Session_1_What_is_code_coordinates_Basic_drawing)
