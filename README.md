@@ -6,7 +6,7 @@ Code from the [UCLA Arts](https://www.kadenze.com/courses/introduction-to-progra
 Watch the trailer for the course here:
 https://www.youtube.com/watch?v=Nljjs4-mwW0
 
-<img src=./theshortcut_catalyst_logos.png>
+<img src=./session_8_export.png>
 
 
 #### Please follow the below links for the code from each lesson and their exercises.
@@ -16,24 +16,39 @@ https://www.youtube.com/watch?v=Nljjs4-mwW0
 
 
 - [Session_1_What_is_code_coordinates_Basic_drawing](https://github.com/dtolonen/ucla_introduction_to_programming_for_the_visual_arts_with_p5js/tree/main/Session_1_What_is_code_coordinates_Basic_drawing)
+- [Session 1 interactive result on Openprocessing website](https://openprocessing.org/sketch/1574777)
 
-            
-  <iframe
-  src=https://OpenProcessing.org/sketch/1292231/embed/
-  width=100% height=350 frameborder=0>
-</iframe>
+
   
-- [Session_2_Loops_store_modify_and_reuse_data ](https://github.com/dtolonen/The_Shortcut_Helsinki_Python_for_Data_Analysis/tree/Lesson_2_Conditional_statements_loops)
-- [Session_3_setup_and_draw_programs_that_run_over_time_Conditionals]
-- [Session_4_Drawing_Images]
-- [Session_5_Nonlinear_and_interaction ]
-- [Session_6_Animation_and_Timers]
-- [Session_7_Functions]
-- [Session_8_Objects_The_Super_Formula]
-- [Session_9_Data_visualisation_arrays]
-- [Session_10_Making_a_simple_game]
+- [Session_2_Loops_store_modify_and_reuse_data ](https://github.com/dtolonen/ucla_introduction_to_programming_for_the_visual_arts_with_p5js/tree/main/Session_2_Loops_store_modify_and_reuse_data)
+- [Session 2 interactive result on Openprocessing website](https://openprocessing.org/sketch/1574780)
 
+- [Session_3_setup_and_draw_programs_that_run_over_time_Conditionals](https://github.com/dtolonen/ucla_introduction_to_programming_for_the_visual_arts_with_p5js/tree/main/Session_3_setup_and_draw_programs_that_run_over_time_Conditionals)
+- [Session 3 interactive result on Openprocessing website](https://openprocessing.org/sketch/1560556)
 
+- [Session_4_Drawing_Images](https://github.com/dtolonen/ucla_introduction_to_programming_for_the_visual_arts_with_p5js/tree/main/Session_4_Drawing_Images)
+- [Session 4 interactive result on Openprocessing website](https://openprocessing.org/sketch/1560750)
+
+- [Session_5_Nonlinear_and_interaction ](https://github.com/dtolonen/ucla_introduction_to_programming_for_the_visual_arts_with_p5js/tree/main/Session_5_Nonlinear_and_interaction)
+- [Session 5 interactive result on Openprocessing website](https://openprocessing.org/sketch/1563015)
+
+- [Session_6_Animation_and_Timers](https://github.com/dtolonen/ucla_introduction_to_programming_for_the_visual_arts_with_p5js/tree/main/Session_6_Animation_and_Timers)
+- [Session 6 interactive result on Openprocessing website](https://openprocessing.org/sketch/1566376)
+
+- [Session_7_Functions](https://github.com/dtolonen/ucla_introduction_to_programming_for_the_visual_arts_with_p5js/tree/main/Session_7_Functions)
+- [Session 7 interactive result on Openprocessing website](https://openprocessing.org/sketch/1567211)
+
+- [Session_8_Objects_The_Super_Formula](https://github.com/dtolonen/ucla_introduction_to_programming_for_the_visual_arts_with_p5js/tree/main/Session_8_Objects_The_Super_Formula)
+- [Session 8 interactive result on Openprocessing website](https://openprocessing.org/sketch/1568081)
+
+- [Session_9_Data_visualisation_arrays](https://github.com/dtolonen/ucla_introduction_to_programming_for_the_visual_arts_with_p5js/tree/main/Session_9_Data_visualisation_arrays)
+- [Session 9 interactive result on Openprocessing website](https://openprocessing.org/sketch/1574726)
+
+- [Session_10_Making_a_simple_game](https://github.com/dtolonen/ucla_introduction_to_programming_for_the_visual_arts_with_p5js/tree/main/Session_10_Making_a_simple_game)
+- [Session 10 interactive result on Openprocessing website](https://openprocessing.org/sketch/1577242)
+
+- [Processing Foundation - Nature of Code course - Session_1](https://github.com/dtolonen/ucla_introduction_to_programming_for_the_visual_arts_with_p5js/tree/main/nature_of_code_session_1)
+- [Processing Foundation - Nature of Code course - Session 1 interactive result on Openprocessing website](https://openprocessing.org/sketch/1574784)
 
 <hr/>
 
